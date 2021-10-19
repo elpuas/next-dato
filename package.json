@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "graphql": "^15.6.1",
+    "graphql-request": "^3.6.1",
     "next": "11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-markdown": "^7.0.1"
   },
   "devDependencies": {
     "eslint": "7.32.0",
